@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Aslamjon",
+        "age": 21
+    },
+    {
+        "id": "c28c9f6c-146c-4aea-a766-530127d113e8",
+        "name": "Shaxroda",
+        "age": "7",
+        "imgUrl": "/api/data/chain1_9815c5ac-c583-4963-aea3-240a44f81c16.svg"
+    },
+    {
+        "id": "464a58b4-c47d-4db2-8ca8-209690911379",
+        "name": "Aslamjon Ibragimov",
+        "age": "21"
+    }
+]
