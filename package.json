@@ -1,21 +1,21 @@
 {
-  "name": "saveformwithimginnodejs",
+  "name": "savedatawithimginnodejs",
   "version": "1.0.0",
-  "description": "save Form With Img In NodeJs",
+  "description": "Save Data With Img In NodeJs",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aslamjon/saveFormWithImgInNodeJs.git"
+    "url": "git+https://github.com/aslamjon/saveDataWithImgInNodeJs.git"
   },
   "author": "Aslamjon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aslamjon/saveFormWithImgInNodeJs/issues"
+    "url": "https://github.com/aslamjon/saveDataWithImgInNodeJs/issues"
   },
-  "homepage": "https://github.com/aslamjon/saveFormWithImgInNodeJs#readme",
+  "homepage": "https://github.com/aslamjon/saveDataWithImgInNodeJs#readme",
   "dependencies": {
     "express": "^4.17.1",
     "multer": "^1.4.3",

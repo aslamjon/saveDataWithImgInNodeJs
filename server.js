@@ -6,7 +6,7 @@ const app = express();
 const { dataRouter } = require('./routes/dataRouter');
 
 // Defining port number
-const PORT = 3000;
+const PORT = 3001;
 
 
 app.use(express.urlencoded({extended: true}))
