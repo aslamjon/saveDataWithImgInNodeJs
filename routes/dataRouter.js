@@ -1,4 +1,5 @@
 const { Router } = require('express');
+const path = require("path");
 const {
     getAllData,
     getDataById,
@@ -12,7 +13,7 @@ const router = Router()
 
 const multer = require("multer");
 const upload = multer({
-    dest: "/home/pi/Coding/Github/test/data/cache"
+    dest: path.join(__dirname, `./../data/cache`)
     // you might also want to set some limits: https://github.com/expressjs/multer#limits
 });
 
